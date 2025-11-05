@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Fazlah Karim Alvee"
+title                    : "Sumaiya Mahdiya Mahia"
 title_separator          : "-"
-name                     : &name "Md Fazlah Karim Alvee"
+name                     : &name "Sumaiya Mahdiya Mahia"
 description              : &description ""
-url                      : https://alvee3120.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Mahdiyaaaaaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alvee3120/alvee3120.github.io"
+repository               : "Mahdiyaaaaaa/Mahdiyaaaaaa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,29 +81,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Md Fazlah Karim Alvee"
-  avatar           : "alvee-dp.png"
-  bio              : "CSE student at IUBAT with a keen interest in NLP and MERN stack development. Currently exploring deep learning for natural language understanding and also passionate about UI/UX design."
+  name             : "Sumaiya Mahdiya Mahia"
+  avatar           : "mahia.jpg"
+  bio              : "As a BSC student in Computer Science and Engineering at IUBAT, I have a strong foundation in networking and UI/UX design. With excellent communication skills and adaptability, I aim to pursue a teaching career while contributing to innovative, user-focused projects."
   location         : "Dhaka, Bangladesh"
-  employer         : "Junior Web Designer at Tech4realty"
+  employer         : "Networking Intern"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
-  email            : "fazlahkarim2002@gmail.com"
+  email            : "mahdiyamahia00@gmail.com"
   researchgate     :  #"https://www.researchgate.net/profile/Omar-Sharif-5"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/alvee.55"
+  facebook         : "https://www.facebook.com/sumaiyamahdiya.mahia"
   foursquare       :
-  github           : "Alvee3120"
+  github           : "Mahdiyaaaaaa"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "md-fazlah-karim-alvee-aab19427a"
+  linkedin         : "sumaiya-mahdiya-mahia-0232a3312"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
